@@ -1,0 +1,87 @@
+.modal {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    background: rgba(0, 0, 0, 0.4);
+    opacity: 1;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5s;
+    top: 0;
+    left: 0;
+    pointer-events: all;
+
+}
+
+.h3{
+    margin-left: 26%;
+    padding: 0;
+}
+
+
+
+.modal-body {
+    transition: 0.5s;
+    opacity: 0;
+    pointer-events: none;
+
+}
+
+.spiner {
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    margin-bottom: 5%;
+}
+
+.modal-content {
+
+    transition: 0.5s;  
+    background: rgb(251, 250, 250);
+    width: 50%;
+
+}
+
+.btn-close {
+    width: auto;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.btn-light {
+    background-color: white;
+    border-color: white;
+}
+
+.img {
+    margin-left: 38%;
+    width: 25%;
+    border-radius: 10%;
+    padding: 1%;
+    height: 30%;
+    
+}
+
+.date-list {
+    margin-left: 20%;
+    text-align: center;
+    background-color: white;
+}
+.detail.content {
+    text-align: center;
+    width: 80%;
+    margin-right: 20%;
+    background-color: white;
+
+}
+
+
+.details {
+    text-align: center;
+    width: 80%;
+    margin-right: 20%;
+    color: rgb(39, 38, 38);
+
+}

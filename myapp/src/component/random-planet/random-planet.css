@@ -1,0 +1,23 @@
+.conteniar {
+    display: flex;
+    justify-content: flex-start;
+    background: #312f2f;
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+}
+
+.conteniar1 {
+    display: flex;
+    justify-content: center;
+    background: #312f2f;
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+}
+
+img {
+    width: 20%;
+    border-radius: 10%;
+    padding: 1%
+}

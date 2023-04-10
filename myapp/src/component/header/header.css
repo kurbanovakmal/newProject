@@ -1,0 +1,32 @@
+
+
+.list-group-item1  {
+    display: inline;
+    padding: 0;
+    margin: 2%;
+    background: none;
+    border: 0;
+    font-size:larger;
+    color: rgb(28, 83, 66);
+}
+
+.list-group2 {
+    margin-left: 10%;
+    padding: 0;
+    width: auto;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+}
+
+#h1 {
+    font-size: xx-large;
+    color: white;
+    cursor:auto;
+    margin: 1%;
+}
+
+.list-group-item1 :hover {
+    color: aliceblue;
+    text-decoration: none;
+}

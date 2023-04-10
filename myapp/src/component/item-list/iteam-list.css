@@ -1,0 +1,24 @@
+.list-group {
+    margin-top: 1%;
+    background: #312f2f;
+    cursor: pointer;
+    width: 100%;
+}
+
+.persons {
+    width: 89%;
+
+
+
+}
+
+.li {
+    color: aliceblue;
+  
+}
+
+.list-group-item :hover {
+    color: red;
+    text-decoration: none;
+}
+
